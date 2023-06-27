@@ -1,0 +1,37 @@
+Lead Product Analyst
+Analytics team · Limassol, limassol
+________________________________________
+BrainRocket is a software development company and digital solutions provider. The company has created over 40 cutting-edge products spanning 20 different markets.
+Our team of around 670 tech-savvy professionals successfully deliver scalable projects that are custom-made to the customers’ needs.
+We also strive to create a culture centered around personal and professional growth for employees, in a positive and welcoming environment.
+
+
+We are looking for a  Lead Senior Product Analyst with relocation to Cyprus
+
+✅Key responsibilities:
+✔️ Leading 3-5 Product Analyst and develop the PA team 
+✔️ Help businesses make decisions and develop a data-driven product;
+✔️ Research: search for growth points, support for making product decisions;
+✔️ Conducting A / B experiments: design, launch, interpretation of results;
+✔️ Analyze the effectiveness of existing marketing tracking and analysis tools (Google Analytics) and provide recommendations for improvement;
+✔️ Building / maintaining / developing a metrics system;
+✔️ Analysis of user behavior scenarios;
+✔️ Conduct competitive research and benchmarking data.
+
+✅Requirements:
+✔️ Over 3+ years of experience as a digital data analyst;
+✔️ Over 1+ years of experience of management / leading a digital data analysts;
+✔️ Deep experience in Igaming industry 
+✔️ Experience in conducting A / B tests on the Optimize platform;
+✔️ Experience in building analytics in the product and specific cases when analytics helped the business;
+✔️ Be able to formulate product hypotheses and know how to test them;
+✔️ Basic skills (HTML, CSS, JS / SQL);
+✔️ Knowledge of mathematical statistics and experience in its application;
+✔️ Advance lvl of English
+
+✅Will be a plus:
+✔️ Experience with other analytics systems (for example Amplitude);
+✔️ Experience with Power BI;
+✔️ Python programming skills (Pandas, Numpy).
+
+

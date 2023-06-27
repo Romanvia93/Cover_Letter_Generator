@@ -1,0 +1,6 @@
+openai
+gradio
+nltk
+gtts
+pathlib
+python-dotenv
