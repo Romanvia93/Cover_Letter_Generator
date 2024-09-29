@@ -1,0 +1,8 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Data Analyst position at [Company Name]. With over 2 years of professional experience in data analysis and a degree in data science, I possess strong SQL skills and proficiency in BI tools such as Tableau. My background includes influencing decision-making with data in a business environment and utilizing statistical tools for experimentation. I am a proactive and results-driven individual who thrives in fast-paced environments. I am excited about the opportunity to contribute to your team and help solve complex questions using data.
+
+Thank you for considering my application.
+
+Sincerely,
+Roman
